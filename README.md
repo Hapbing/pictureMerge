@@ -11,13 +11,13 @@
 - **UI 组件库**：Element Plus
 - **桌面应用框架**：Tauri 2.0
 - **PDF 处理**：jsPDF
+- **看板**：OhMyLive2D
 
 ## 开始使用
 
-1. 克隆项目
-2. 安装依赖：`npm install`
-3. 开发模式启动：`npm run tauri dev`
-4. 构建应用：`npm run tauri build`
+1. 安装依赖：`npm install`
+2. 开发模式启动：`npm run tauri dev`
+3. 打包应用：`npm run tauri build`
 
 ## 效果图
 ![效果图](./public/image1.png)
